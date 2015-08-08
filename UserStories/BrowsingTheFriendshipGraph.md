@@ -10,7 +10,7 @@
 
 ### Background
 
-The Linked Data People graph extends to several million organic user profiles over hundreds of multiple domains.  If facebook is included (they are producers of linked data via turtle) it extends to over 1.4 billion profiles.  
+The Linked Data People graph extends to several million organic user profiles over hundreds of domains.  If facebook is included (they are producers of linked data via turtle) it extends to over 1.4 billion profiles.  
 
 Facebook profiles generally require an OAuth token to use the API, this enables access control and viewing priveledges.  SoLiD in general uses WebAccessControl and ACL's to achieve the same thing, but implementors may choose which approach they wish to take.
 
