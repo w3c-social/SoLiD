@@ -26,6 +26,9 @@ There are several implementations of viewers.
 * http://foaf-visualizer.gnu.org.ua/?uri=http://danbri.org/foaf.rdf
 * https://deiu.me/profile#me
 * http://graphite.ecs.soton.ac.uk/browser/?uri=http%3A%2F%2Fmelvincarvalho.com%2F
+* http://www.dotac.info/explorer/#person/http://southampton.rkbexplorer.com/id/person-01650
+* http://genealogy.ragld.com/#!/http%3A%2F%2Fgothwin.data.seme4.com%2Fid%2Fperson%2FI0265
+* http://idehen.net/public_home/kidehen/Public/DropBox/YouID/Kingsley_Uyi_Idehen_LinkedIn_Profile_on_Dropbox/index.html#.VcXi15OKE_s
 
 ### Notes
 
